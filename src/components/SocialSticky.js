@@ -5,7 +5,7 @@ const SocialSticky = () => {
     <div orientation="left" className="jLhcAf">
       <ul className="jpDLWP">
         <a
-          href="https://github.com/aitsamahad"
+          href="https://ak659277@gmail.com"
           target="_blank"
           rel="nofollow noopener noreferrer"
           aria-label="GitHub"
@@ -14,7 +14,7 @@ const SocialSticky = () => {
           <li className="fab fa-github"></li>
         </a>
         <a
-          href="https://www.linkedin.com/in/aitsam-ahad-ab6a13122/"
+          href="https://www.linkedin.com/in/assad-ullah-195301162/"
           target="_blank"
           rel="nofollow noopener noreferrer"
           aria-label="Linkedin"
@@ -23,7 +23,7 @@ const SocialSticky = () => {
           <li className="fab fa-linkedin"></li>
         </a>
         <a
-          href="https://www.instagram.com/aitsamahad"
+          href="https://www.linkedin.com/in/assad-ullah-195301162/"
           target="_blank"
           rel="nofollow noopener noreferrer"
           aria-label="Instagram"
@@ -33,7 +33,7 @@ const SocialSticky = () => {
         </a>
 
         <a
-          href="https://twitter.com/aitsamahad"
+          href="https://twitter.com/Ak659277Asad"
           target="_blank"
           rel="nofollow noopener noreferrer"
           aria-label="Twitter"

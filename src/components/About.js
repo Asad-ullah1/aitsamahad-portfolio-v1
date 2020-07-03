@@ -20,7 +20,7 @@ const About = () => {
             <h6>Myself</h6>
           </div>
           <p>
-            Hello! I'm Aitsam, a software engineer based in Islamabad, Web
+            Hello! I'm asad, a software engineer based in karachi, Web
             Developer with 4 years of experience in designing and developing
             user interfaces, testing, debugging, and eCommerce technologies.
             Proven ability in optimizing web functionality that improve data
@@ -51,7 +51,7 @@ const About = () => {
         </div>
       </div>
       <div className="get-in-touch">
-        <a href="mailto:aitsama.ahad@gmail.com">Get In Touch</a>
+        <a href="mailto:ak659277@gmail.com">Get In Touch</a>
       </div>
     </section>
   );

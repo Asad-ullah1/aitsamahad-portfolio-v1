@@ -9,7 +9,7 @@ const Footer = () => {
         <i className="fas fa-chevron-up"></i>
       </div>
       <p>
-        &copy; 2020 - Aitsam Ahad | MERN Full Stack - Cross Platform Application
+        &copy; 2020 -Asad-ullah | MERN Full Stack - Cross Platform Application
         Developer.
       </p>
     </footer>

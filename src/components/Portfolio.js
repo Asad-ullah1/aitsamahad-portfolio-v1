@@ -31,7 +31,7 @@ const Portfolio = () => {
             </p>
             <Tag name="NodeJS" />
             <a href="#" className="cta">
-              View Details ->
+              View Details 
             </a>
           </div>
         </div>
@@ -49,7 +49,7 @@ const Portfolio = () => {
               Dolor, corrupti?
             </p>
             <a href="#" className="cta">
-              View Details ->
+              View Details
             </a>
           </div>
           <div className="portfolio-img">
@@ -73,7 +73,7 @@ const Portfolio = () => {
               Dolor, corrupti?
             </p>
             <a href="#" className="cta">
-              View Details ->
+              View Details
             </a>
           </div>
         </div>
